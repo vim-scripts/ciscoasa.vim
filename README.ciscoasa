@@ -1,0 +1,9 @@
+
+Cisco ASA - Adaptive Security Appliance
+
+This syntaxfile wil syntax-highlight the many common structures of the
+configuration. It helps to prevent some obvious mistakes and makes the result a
+lot more readable.
+
+The syntax is far from complete, but many important parts have been
+implemented.

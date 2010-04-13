@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3055
+
+Cisco ASA - Adaptive Security Appliance
+
+This syntax file will highlight the many common structures of the configuration. It helps to prevent some obvious mistakes and makes the result a lot more readable.
+
+The syntax is far from complete, but many important parts have been implemented.
+
